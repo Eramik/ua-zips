@@ -1,0 +1,22 @@
+{
+  "name": "ua-zips",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eramik/ua-zips.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eramik/ua-zips/issues"
+  },
+  "homepage": "https://github.com/Eramik/ua-zips#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
